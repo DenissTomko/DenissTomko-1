@@ -2,7 +2,8 @@
 using namespace std; 
 int main() { 
 
-  int a=1; 
+  int a=1;
+  a++ ;
   cout << "DT-" << a; 
 
 } 
